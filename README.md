@@ -60,6 +60,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Implement advanced AI-driven code refactoring agents
 - Build a community plugin marketplace for custom analysis tools
 
+## Twitter
+
+https://x.com/ZentriAI
+
 ---
 
 **Join us in shaping the future of open-source code analysis!**
